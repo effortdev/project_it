@@ -27,3 +27,5 @@ IT 업계에 종사하고 싶은 사람들에게 업무와 관련된 IT 자격�
 ---
 
 ### 사용기술
+![1](https://user-images.githubusercontent.com/107980523/209783103-8b015160-54c8-4138-a0ce-e1166fe86422.png)
+![2](https://user-images.githubusercontent.com/107980523/209783109-90012582-f9cb-4221-afbe-4bec4ff3ba29.png)
